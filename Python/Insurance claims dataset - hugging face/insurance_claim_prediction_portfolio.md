@@ -46,6 +46,7 @@ This project focuses on analyzing, cleaning, engineering features, and modeling 
 
 #### Visualizing BMI Impact:
 ![BMI vs Predicted Claim Cost](bmi_vs_cost.png)
+<img width="603" height="458" alt="image" src="https://github.com/user-attachments/assets/34a374ed-11c4-49bf-b6e4-01f034b78e14" />
 
 - **Risk Segmentations**: Mature age groups (55-64) combined with an 'Obese' classification and a smoking habit represented the absolute highest risk segment with mean predictions peaking around **~$39,793**.
 
@@ -56,6 +57,7 @@ This project focuses on analyzing, cleaning, engineering features, and modeling 
 
 #### Visualizing Feature Importance via SHAP:
 ![SHAP Summary Plot](shap_summary.png)
+![Uploading image.png…]()
 
 ---
 
