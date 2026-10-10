@@ -57,7 +57,8 @@ This project focuses on analyzing, cleaning, engineering features, and modeling 
 
 #### Visualizing Feature Importance via SHAP:
 ![SHAP Summary Plot](shap_summary.png)
-![Uploading image.png…]()
+<img width="721" height="363" alt="image" src="https://github.com/user-attachments/assets/13f2b992-05ed-49c9-9387-3de4d0de8967" />
+
 
 ---
 
